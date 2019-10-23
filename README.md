@@ -1,2 +1,4 @@
 # hello-world
-进击的小怪兽
+
+Hi Human!
+i like code.
